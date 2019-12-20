@@ -8,7 +8,7 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<name>Rabbit4J-API - 3rabbitz book API Java Client</name>
 	<description>Rabbit4J-API (rabbit4j-api) provides a full featured Java client library for working with 3rabbitz book servers.</description>
-	<url>https://github.com/gitlab4j/gitlab4j-api</url>
+	<url>https://github.com/showaid/gitlab4j-api</url>
 
 	<licenses>
 		<license>
